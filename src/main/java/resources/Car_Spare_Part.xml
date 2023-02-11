@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Car_Spare_Parts>
+    <spareparts>
+        <tyres>Yokohama</tyres>
+        <gears>Gears</gears>
+        <stearing>Stearing</stearing>
+        <crankshaft>crankshaft</crankshaft>
+    </spareparts>
+</Car_Spare_Parts>

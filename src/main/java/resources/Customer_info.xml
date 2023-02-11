@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Countries>
+    <Personnel_informaion>
+        <name>Kay</name>
+        <alpha_code>USA</alpha_code>
+        <phone>328,239,523</phone>
+        <car>Honda</car>
+    </Personnel_informaion>
+    <Personnel_informaion>
+        <name>Aman</name>
+        <alpha_code>Pakistan</alpha_code>
+        <phone>328,233,523</phone>
+        <car>Toyata</car>
+    </Personnel_informaion>
+    <Personnel_informaion>
+        <name>Kadin</name>
+        <alpha_code>USA</alpha_code>
+        <phone>322,239,523</phone>
+        <car>Ferrari</car>
+    </Personnel_informaion>
+
+</Countries>

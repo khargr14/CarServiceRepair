@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+    <cardetail>
+        <id>1</id>
+        <carmodel>2019</carmodel>
+        <carname>Kia</carname>
+    </cardetail>
+    <cardetail>
+        <id>2</id>
+        <carmodel>2002</carmodel>
+        <carname>Hondacivic</carname>
+    </cardetail>
+    <cardetail>
+        <id>1</id>
+        <carmodel>2023</carmodel>
+        <carname>Toyota</carname>
+    </cardetail>
+</customers>

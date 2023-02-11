@@ -1,0 +1,9 @@
+CREATE TABLE `carrepairservice`.`cardata` (
+  `id` INT NOT NULL,
+  `modelnumber` VARCHAR(45) NULL,
+  `manufaturingnumber` VARCHAR(45) NULL);
+
+CREATE TABLE `carrepairservice`.`userdetails` (
+  `id` INT NOT NULL,
+  `name` VARCHAR(45) NOT NULL,
+  `age` INT NOT NULL);
