@@ -7,7 +7,7 @@ public class Main
     {
         new CarInfoService().addNewCar(2017,"2OOERTYY","234RTIF");
 new UserinfoService().addNewUser("Kay",2,21);
-        new UserinfoService().addNewUser("Kadin",3,22);
+new UserinfoService().addNewUser("Kadin",3,22);
 new UserinfoService().delete(1);
 
     }
